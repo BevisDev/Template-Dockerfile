@@ -12,6 +12,10 @@
     <li>This container can then be run consistently across different environments, providing a predictable and isolated environment for your application to run.</li>
 </ul>
 
+```shell
+bash install-docker.sh 
+```
+
 ## <b>Docker Workflow</b>
 
 <img src="images/docker-workflow.png"/>
